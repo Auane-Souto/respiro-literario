@@ -3,7 +3,7 @@ import { Container, Title, Form, Input, TextArea, Button } from "./Contact.style
 export default function Contact() {
   return (
     <Container>
-      <Title>Contato</Title>
+      <Title>Mande idéias</Title>
       <Form>
         <Input type="text" placeholder="Seu nome" required />
         <Input type="email" placeholder="Seu e-mail" required />

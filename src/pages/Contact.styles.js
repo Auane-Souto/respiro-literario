@@ -14,7 +14,7 @@ export const Container = styled.div`
 export const Title = styled.h2`
   font-size: 2.5rem;
   color: #000000ff;
-  text-shadow: 0 0 15px #3c3d3dff;
+  text-shadow: 0 0 15px #000000ff;
   margin-bottom: 2rem;
 `;
 

@@ -9,7 +9,7 @@ export default function Projects() {
 
   return (
     <Container>
-      <Title>Projetos</Title>
+      <Title>Produções</Title>
       <Grid>
         {projetos.map((proj, index) => (
           <Card key={index}>

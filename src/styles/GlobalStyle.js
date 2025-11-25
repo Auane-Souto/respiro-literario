@@ -16,4 +16,12 @@ export const GlobalStyle = createGlobalStyle`
     text-decoration: none;
     color: inherit;
   }
+
+
+@media (max-width: 768px) {
+    body {
+      font-size: 14px;
+      alingn-items: center;
+    }
+  }
 `;
